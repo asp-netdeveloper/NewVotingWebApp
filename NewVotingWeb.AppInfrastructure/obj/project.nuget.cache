@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "h8mLH55ZuNvqeteEPGvcNt7o2KGBVeDiDhYG4QBmvG5BV1bTN7ncdnSpm5lzrrAMuBy5Ed2PUV4Ygy+/z5Hjug==",
+  "success": false,
+  "projectFilePath": "E:\\NetProjects\\NewVotingWebApp\\NewVotingWeb.AppInfrastructure\\NewVotingWeb.AppInfrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project NewVotingWebApp.Core is not compatible with netstandard2.0 (.NETStandard,Version=v2.0). Project NewVotingWebApp.Core supports: netstandard2.1 (.NETStandard,Version=v2.1)",
+      "libraryId": "NewVotingWebApp.Core",
+      "targetGraphs": [
+        ".NETStandard,Version=v2.0"
+      ]
+    }
+  ]
+}

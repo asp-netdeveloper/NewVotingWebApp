@@ -1,0 +1,12 @@
+E:\NetProjects\NewVotingWebApp\NewVotingWebApp.Infrastructure\obj\Debug\netcoreapp3.1\NewVotingWebApp.Infrastructure.csprojAssemblyReference.cache
+E:\NetProjects\NewVotingWebApp\NewVotingWebApp.Infrastructure\obj\Debug\netcoreapp3.1\NewVotingWebApp.Infrastructure.AssemblyInfoInputs.cache
+E:\NetProjects\NewVotingWebApp\NewVotingWebApp.Infrastructure\obj\Debug\netcoreapp3.1\NewVotingWebApp.Infrastructure.AssemblyInfo.cs
+E:\NetProjects\NewVotingWebApp\NewVotingWebApp.Infrastructure\obj\Debug\netcoreapp3.1\NewVotingWebApp.Infrastructure.csproj.CoreCompileInputs.cache
+E:\NetProjects\NewVotingWebApp\NewVotingWebApp.Infrastructure\bin\Debug\netcoreapp3.1\NewVotingWebApp.Infrastructure.deps.json
+E:\NetProjects\NewVotingWebApp\NewVotingWebApp.Infrastructure\bin\Debug\netcoreapp3.1\NewVotingWebApp.Infrastructure.dll
+E:\NetProjects\NewVotingWebApp\NewVotingWebApp.Infrastructure\bin\Debug\netcoreapp3.1\NewVotingWebApp.Infrastructure.pdb
+E:\NetProjects\NewVotingWebApp\NewVotingWebApp.Infrastructure\bin\Debug\netcoreapp3.1\NewVotingWebApp.Core.dll
+E:\NetProjects\NewVotingWebApp\NewVotingWebApp.Infrastructure\bin\Debug\netcoreapp3.1\NewVotingWebApp.Core.pdb
+E:\NetProjects\NewVotingWebApp\NewVotingWebApp.Infrastructure\obj\Debug\netcoreapp3.1\NewVotingWebApp.Infrastructure.csproj.CopyComplete
+E:\NetProjects\NewVotingWebApp\NewVotingWebApp.Infrastructure\obj\Debug\netcoreapp3.1\NewVotingWebApp.Infrastructure.dll
+E:\NetProjects\NewVotingWebApp\NewVotingWebApp.Infrastructure\obj\Debug\netcoreapp3.1\NewVotingWebApp.Infrastructure.pdb

@@ -1,0 +1,5 @@
+E:\NetProjects\NewVotingWebApp\NewVotingWebApp.Core\bin\Debug\netstandard2.1\NewVotingWebApp.Core.deps.json
+E:\NetProjects\NewVotingWebApp\NewVotingWebApp.Core\bin\Debug\netstandard2.1\NewVotingWebApp.Core.dll
+E:\NetProjects\NewVotingWebApp\NewVotingWebApp.Core\obj\Debug\netstandard2.1\NewVotingWebApp.Core.csprojAssemblyReference.cache
+E:\NetProjects\NewVotingWebApp\NewVotingWebApp.Core\obj\Debug\netstandard2.1\NewVotingWebApp.Core.AssemblyInfoInputs.cache
+E:\NetProjects\NewVotingWebApp\NewVotingWebApp.Core\obj\Debug\netstandard2.1\NewVotingWebApp.Core.AssemblyInfo.cs
